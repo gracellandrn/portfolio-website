@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.8",
-    "portfoliotailwind": ".",
     "tailwindcss": "^4.1.8",
     "typed.js": "^2.1.0"
   }
