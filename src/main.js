@@ -3,7 +3,7 @@ import Typed from "typed.js";
 const myTyped = new Typed("#greeting", {
     strings: ["Software Engineer.", "Fullstack Developer."],
     loop: true,
-    typeSpeed: 25
+    typeSpeed: 35
 })
 
 window.toggleMenu = function () {
